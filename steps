@@ -1,0 +1,5 @@
+pip install django_daraja
+on your template create a new html file
+add django_daraja to your setings
+on views create function to make payment
+run migration on your app and django_daraja
